@@ -34,18 +34,18 @@ h2 {
 
 .codecademy a:link {
     text-decoration: none;
-    color: black;
+    color: black !important;
 }
 
 .codecademy a:visited {
     text-decoration: none;
-    color: black;
+    color: black !important;
 }
 
 .codecademy a:hover {
-    color: brown;
+    color: brown !important;
 }
 
 .codecademy a:active {
-    color: black;
+    color: black !important;
 }
