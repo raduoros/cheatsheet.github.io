@@ -1,0 +1,50 @@
+html {
+    font-size: 16px;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: Poppins;
+    font-weight: 900;
+    color: black;
+    font-size: 4rem;
+    letter-spacing: 0.5rem;
+    
+}
+
+h2 {
+    font-family: Poppins;
+    font-weight: 100;
+    color: black;
+    font-size: 2rem;
+    letter-spacing: 0.7rem;
+}
+
+.codecademy {
+    font-size: 1.3em;
+    letter-spacing: 0.15em;
+}
+
+.codecademy a:link {
+    text-decoration: none;
+}
+
+.codecademy a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+.codecademy a:hover {
+    color: brown;
+}
+
+.codecademy a:active {
+    color: black;
+}
